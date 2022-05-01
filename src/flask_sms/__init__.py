@@ -3,7 +3,7 @@
 import typing as t
 
 from flask import Flask
-from kavenegar import *
+from kavenegar import KavenegarAPI
 
 
 class FLASKOtp(KavenegarAPI):
